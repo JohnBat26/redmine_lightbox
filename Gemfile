@@ -1,3 +1,3 @@
-group :test do
-  gem 'simplecov'
-end
+# group :test do
+#   gem 'simplecov'
+# end
